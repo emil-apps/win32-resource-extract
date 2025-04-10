@@ -9,4 +9,4 @@ Easily extract PE32 resources from EXEs and DLLs!
 6. Finished!
 
 ## For Developers
-Compiled using Visual Studio 2017 15.9.70 @ Windows Vista x64
+Compiled using Visual Studio 2017 15.9.70 @ Windows x64
