@@ -7,3 +7,6 @@ Easily extract PE32 resources from EXEs and DLLs!
 4. Open a command prompt in the folder containing the extract.exe file and the resource you want to extract.
 5. Run the command `extract.exe <file_name_here>` to extract all resources.
 6. Finished!
+
+## For Developers
+Compiled using Visual Studio 2017 15.9.70 @ Windows Vista x64
